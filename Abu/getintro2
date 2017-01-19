@@ -1,0 +1,39 @@
+OURCE CONTROL MANAGEMENT (VERSION CONTROL)
+
+git
+
+distributed architechture 
+every machine is a repo
+
+git for windows
+
+git init
+run these commands to setup git user
+
+git config --global user.name "yourname"
+git config --global user.email youname@example.com
+
+create files (touch command)
+git status
+git add .
+git status
+git commit -m "commit msg"
+git reflog
+initialise repo
+git init
+
+add files to staging area / index
+
+git add filename
+
+commit changes
+
+git commit -m "message"
+
+git status
+
+git reflog
+
+
+
+
